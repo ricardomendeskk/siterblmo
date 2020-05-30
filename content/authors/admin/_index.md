@@ -28,6 +28,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/sosmatematicarm/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ricardomendeskk
