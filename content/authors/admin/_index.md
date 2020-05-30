@@ -45,8 +45,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Mathematic and a Master in Economics. Actually I'm a Doctoral student in Economics at the Federal University of Rio Grande do Sul.
 
 ![reviews](../../img/certifacates.jpg)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+Terminar o texto aqui.
