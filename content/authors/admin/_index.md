@@ -16,19 +16,16 @@ education:
   - course: Graduate in Mathematics
     institution: Federal University of Viçosa
     year: 2013
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+email: "ricardo.blm.oscar@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Michael Vahn
+- Game Theory for Politics
+- Econometrics
+- Mathematics
+name: Ricardo Oscar
 organizations:
-- name: Stanford University
+- name: Federal University of Rio Grande do Sul
   url: ""
-role: Professor of Artificial Intelligence
+role: Doctoral student in Economics
 social:
 - icon: envelope
   icon_pack: fas
