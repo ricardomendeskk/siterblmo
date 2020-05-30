@@ -15,16 +15,16 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Analysis"
-  parcent = "90%"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  parcent = ""
   
 [[feature]]
   icon = "user-secret"
   icon_pack = "fas"
-  name = "Leadership"
-  parcent = "80%"  
+  name = "Data Science"
+  parcent = ""  
   
 [[feature]]
   icon = "camera-retro"
