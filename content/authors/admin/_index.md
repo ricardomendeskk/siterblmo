@@ -4,9 +4,7 @@ authors:
 avatar_image: user-full.png
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
-btn:
-- label: Download Resume
-  url: https://sourcethemes.com/academic/docs/install/
+
 display_education: false
 education:
   courses:
