@@ -21,16 +21,16 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   parcent = ""
   
 [[feature]]
-  icon = "user-secret"
+  icon = "database"
   icon_pack = "fas"
   name = "Data Science"
   parcent = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "calculator"
   icon_pack = "fas"
-  name = "Photography"
-  parcent = "70%"
+  name = "Mathematics"
+  parcent = ""
   
 [[feature]]
   icon = "searchengin"
