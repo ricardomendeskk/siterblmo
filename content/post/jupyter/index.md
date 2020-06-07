@@ -31,7 +31,7 @@ gallery_item:
   caption: Strawberry
   image: theme-strawberry.png
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: PEGAT'
   focal_point: ""
   preview_only: false
 projects: []
