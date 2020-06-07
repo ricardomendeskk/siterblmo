@@ -4,9 +4,9 @@ external_link: null
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+summary: A project with my friend Victor Henriques about external trade.
 tags:
 - Demo
-- Deep Learning
-title: Deep Learning
+- Mineirando Dados
+title: Mineirando Dados
 ---
