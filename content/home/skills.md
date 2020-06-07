@@ -40,7 +40,7 @@ subtitle = ""
 
 [[feature]]
   icon = "f1e3"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "futbol"
   parcent = "Football"
 
