@@ -39,7 +39,7 @@ subtitle = ""
   parcent = ""
 
 [[feature]]
-  icon = "r-project"
+  icon = "f1e3"
   icon_pack = "far"
   name = "futbol"
   parcent = "Football"
