@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -26,8 +26,8 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Mineirando Dados"
+    tag = "Mineirando Dados"
   
   [[content.filter_button]]
     name = "Other"
