@@ -38,10 +38,5 @@ subtitle = ""
   name = "R"
   parcent = ""
 
-[[feature]]
-  icon = "futbol"
-  icon_pack = "fas"
-  name = "Football"
-  parcent = ""
 
 +++
