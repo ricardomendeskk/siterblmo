@@ -2,8 +2,7 @@
 authors:
 - admin
 avatar_image: user-full.png
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Game Theory, Mathematics, Econometrics and R programming.
 
 display_education: false
 education:
