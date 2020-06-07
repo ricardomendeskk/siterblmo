@@ -39,9 +39,9 @@ subtitle = ""
   parcent = ""
 
 [[feature]]
-  icon = "f1e3"
+  icon = "futbol"
   icon_pack = "fas"
-  name = "futbol"
-  parcent = "Football"
+  name = "Football"
+  parcent = ""
 
 +++
