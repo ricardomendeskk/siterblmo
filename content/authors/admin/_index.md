@@ -27,7 +27,7 @@ role: Doctoral student in Economics
 social:
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/sosmatematicarm/
+  link: https://www.instagram.com/ricardomendeskk/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ricardomendeskk
