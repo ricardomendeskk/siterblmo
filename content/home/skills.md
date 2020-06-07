@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
   
 [[feature]]
+  icon = "calculator"
+  icon_pack = "fas"
+  name = "Mathematics"
+  parcent = ""
+  
+[[feature]]
   icon = "trophy"
   icon_pack = "fas"
   name = "Game Theory"
@@ -31,12 +37,11 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   parcent = ""
-  
-[[feature]]
-  icon = "calculator"
-  icon_pack = "fas"
-  name = "Mathematics"
-  parcent = ""
 
+[[feature]]
+  icon = "r-project"
+  icon_pack = "far"
+  name = "futbol"
+  parcent = "Football"
 
 +++
