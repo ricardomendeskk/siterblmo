@@ -4,9 +4,9 @@ external_link: null
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+summary: A project with my friend Victor Henriques about foreign trade.
 tags:
 - Demo
 - robotics
-title: Artificial Intelligence
+title: Mineirando Dados
 ---
