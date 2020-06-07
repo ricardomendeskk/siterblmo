@@ -42,6 +42,8 @@ title: Research Group in Political Economy and Game Theory - PEGAT
 ---
 
 
+The group's research topics include political alliances, party discipline, self-selection of politicians and their selection by parties, populism, historical advantage, among others. Although the group was born in association with a Department of Economics, it is multidisciplinary, so it is open to contributions from Political Science, Mathematics and other related fields.
+
 ```python
 from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
