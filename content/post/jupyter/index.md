@@ -2,7 +2,7 @@
 authors:
 - admin
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: "2020-06-06T00:00:00Z"
 draft: false
 featured: false
 gallery_item:
@@ -35,10 +35,10 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-subtitle: Learn how to blog in academia using Jupyter notebooks
-summary: Learn how to blog in academia using Jupyter notebooks
+subtitle: A group of scholars interested in understanding how political choices are made both by parties and politicians
+summary: A group of scholars interested in understanding how political choices are made both by parties and politicians
 tags: []
-title: Display Jupyter Notebooks with academia
+title: Research Group in Political Economy and Game Theory - PEGAT
 ---
 
 
