@@ -78,11 +78,6 @@
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/mineirando-dados/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url>
@@ -164,6 +159,11 @@
   
   <url>
     <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   

@@ -6,7 +6,6 @@ image:
   focal_point: Smart
 summary: A project with my friend Victor Henriques about external trade.
 tags:
-- Demo
 - Mineirando Dados
 title: Mineirando Dados
 ---
