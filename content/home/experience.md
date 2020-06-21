@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "Federal University of Juiz de Fora"
   company_url = ""
   location = "Juiz de Fora"
-  date_start = "2016-04-22"
-  date_end = "2019-07-08"
+  date_start = "2016-06-22"
+  date_end = "2016-09-08"
   description = "Assistant teacher on Econometrics of Time-Series for Master and Ph.D"
 
 [[experience]]
