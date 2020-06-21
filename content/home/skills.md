@@ -37,6 +37,30 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   parcent = ""
+  
+  [[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Data Base"
+  parcent = ""
+  
+  [[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Data Scraping"
+  parcent = ""
+  
+  [[feature]]
+  icon = "exclamation"
+  icon_pack = "fas"
+  name = "DMAIC"
+  parcent = ""
+  
+  [[feature]]
+  icon = "futbol"
+  icon_pack = "fas"
+  name = "Football"
+  parcent = ""
 
 
 +++
