@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Porto Alegre"
   date_start = "2019-09-22"
   date_end = "2019-11-08"
-  description = "Assistant teacher on Microeconomics"
+  description = "Assistant teacher on Microeconomics for Graduation"
 
 [[experience]]
   title = "Teaching Internship"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Juiz de Fora"
   date_start = "2016-04-22"
   date_end = "2019-07-08"
-  description = "Assistant teacher on Econometrics of Time-Series"
+  description = "Assistant teacher on Econometrics of Time-Series for Master and Ph.D"
 
 [[experience]]
   title = "Teaching Internship"
@@ -42,5 +42,5 @@ date_format = "Jan 2006"
   location = "Viçosa"
   date_start = "2009-01-01"
   date_end = "2010-12-31"
-  description = "Assistant teacher on Mathematics"
+  description = "Assistant teacher on Mathematics for High school"
 +++
