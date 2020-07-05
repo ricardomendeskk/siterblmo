@@ -20,9 +20,9 @@ interests:
 - Mathematics
 name: Ricardo Oscar
 organizations:
-- name: Federal University of Rio Grande do Sul
+- name: 
   url: ""
-role: Doctoral student in Economics
+role: 
 social:
 - icon: instagram
   icon_pack: fab
