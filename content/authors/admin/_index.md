@@ -42,8 +42,10 @@ user_groups:
 - Visitors
 ---
 
-I'm a Mathematic and a Master in Economics. Actually I'm a Doctoral student in Economics at the Federal University of Rio Grande do Sul.
+Doctorate Course in Applied Economics from the Federal University of Rio Grande do Sul, researching Game Theory with questions involving auctions, bargains, sequential games, global games and peer effects.
 
-![reviews](../../img/certifacates.jpg)
+Graduated in Mathematics at the Federal University of Viçosa and obtained the title of Master in Applied Economics at the Federal University of Juiz de Fora.
 
-Terminar o texto aqui.
+I have experience with modeling, programming and economic analysis, such as impact assessment, spatial economic models, time series, microeconometry and benchmark models.
+
+I work as an external consultant for companies in the private sector, where I was responsible for economic analysis and robotization of internal processes.
